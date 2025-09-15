@@ -6,7 +6,7 @@
 <h3 align="center">An Informatics Student with a passion for Web & Mobile Development 🇮🇩</h3>
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME_GITHUB_ANDA]&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+  <img src="https://github.com/account" alt="profile-views" />
 </p>
 
 ---
