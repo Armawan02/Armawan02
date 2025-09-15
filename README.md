@@ -1,24 +1,13 @@
-<p align="center">
-  <img src="https-placeholder-url-untuk-banner-anda.png" alt="Armawan Profile Banner" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Armawan</h1>
 <h3 align="center">An Informatics Student with a passion for Web & Mobile Development 🇮🇩</h3>
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=[USERNAME_GITHUB_ANDA]&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-
----
-
 ### 👨‍💻 About Me
 
 Saya adalah mahasiswa S1 Informatika di **Universitas Sulawesi Barat** yang memiliki minat kuat dalam pengembangan web, aplikasi seluler, dan analisis data. Saya aktif terlibat dalam organisasi kemahasiswaan dan telah mengerjakan beberapa proyek teknologi menggunakan **Laravel** dan **Figma**. 
 
 Saat ini, saya sedang fokus untuk meningkatkan keterampilan saya dalam **Laravel** dan **Flutter** untuk membangun aplikasi yang bermanfaat dan berdampak.
 
-- 🌱 Saya sedang mendalami **Laravel** & **Flutter**.
-- 📫 Hubungi saya di: **armawanome47@gmail.com**
+-  Saya sedang mendalami **Laravel** & **Flutter**.
+-  Hubungi saya di: **armawanome47@gmail.com**
 
 ---
 
@@ -47,21 +36,6 @@ Saat ini, saya sedang fokus untuk meningkatkan keterampilan saya dalam **Laravel
   <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
 </p>
-
----
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=[USERNAME_GITHUB_ANDA]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Armawan's GitHub Stats" />
-  <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=[USERNAME_GITHUB_ANDA]&layout=compact&theme=tokyonight&hide_border=true" alt="Armawan's Top Languages" />
-</p>
-
----
-
-### 🤝 Connect with Me
-
 <p align="left">
   <a href="https://linkedin.com/in/..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/..." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
