@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Armawan</h1>
 <h3 align="center">An Informatics Student with a passion for Web & Mobile Development 🇮🇩</h3>
-### 👨‍💻 About Me
+
 
 Saya adalah mahasiswa S1 Informatika di **Universitas Sulawesi Barat** yang memiliki minat kuat dalam pengembangan web, aplikasi seluler, dan analisis data. Saya aktif terlibat dalam organisasi kemahasiswaan dan telah mengerjakan beberapa proyek teknologi menggunakan **Laravel** dan **Figma**. 
 
@@ -11,7 +11,7 @@ Saat ini, saya sedang fokus untuk meningkatkan keterampilan saya dalam **Laravel
 
 ---
 
-### 🛠️ My Skills Arsenal
+🛠️ My Skills Arsenal
 
 <p align="left">
   <h4>Frontend & Mobile:</h4>
